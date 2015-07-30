@@ -1,0 +1,33 @@
+{
+  "name": "smartForm",
+  "version": "1.0.0",
+  "authors": [
+    "Keith Brown <keith@austintreeexperts.com>"
+  ],
+  "description": "Formatting and validation for phone numbers, credit cards and email.",
+  "main": "dist/smartForms.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "phone",
+    "number",
+    "formatting",
+    "credit",
+    "card",
+    "formatting",
+    "validation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "prism": "~1.0.1"
+  }
+}
