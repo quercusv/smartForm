@@ -5,7 +5,7 @@
     "Keith Brown <keith@austintreeexperts.com>"
   ],
   "description": "Formatting and validation for phone numbers, credit cards and email.",
-  "main": "dist/smartForms.min.js",
+  "main": "dist/smartForms.js",
   "moduleType": [
     "globals"
   ],
